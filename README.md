@@ -89,6 +89,12 @@ The model is evaluated using:
 - Recall
 - AUC
 - Confusion Matrix
+## Links
+Website
+https://qewqkugs.dora.run/
+Published Paper
+https://www.jetir.org/view?paper=JETIR2504722
+
 
 ## License
 
